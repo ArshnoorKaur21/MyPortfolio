@@ -17,11 +17,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ArshnoorKaur21](https://github.com/ArshnoorKaur21/Portfolio-Website). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ArshnoorKaur21](https://github.com/ArshnoorKaur21/MyPortfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://arshnoor.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://arshnoor.vercel.app/" target="_blank">arshnoor.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
